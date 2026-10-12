@@ -1,9 +1,7 @@
 # Assignment 2 Deep Learning for Perception
 
-**Name:** [ADD YOUR NAME]  
+**Name:** Fahad Javaid  
 **Roll number:** 23F-0683  
-**Section:** [ADD YOUR SECTION]  
-**GitHub repository:** [PASTE YOUR REPOSITORY URL]
 
 ## Overview
 
